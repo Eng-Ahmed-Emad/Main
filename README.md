@@ -18,11 +18,12 @@
 
 <img align="right" height="153" width="159" src="gif/anime-frieren.gif" z-index="11" />
 
-- 🔭 Software Engineer specializing in mobile application development
-- 📚 Currently enhancing my Japanese language skills and advancing software engineering expertise
-- 🎯 Career Goal: To become a leading mobile application engineer in Japan
-- 🚀 Focused on building innovative applications that push the boundaries of technology and design
-- 🌱 Continuously learning and developing new skills
+- 🔭 Security Professional specializing in **SOC Operations, Information Security, GRC, and Cyber Defense Engineering**  
+- 📚 Currently enhancing my expertise in **Blue Teaming, Threat Detection, and Governance, Risk & Compliance (GRC)**  
+- 🎯 Career Goal: To advance into a **Security Leadership role** while mastering diverse security domains  
+- 🚀 Focused on strengthening **organizational security posture, awareness, and resilience**  
+- 🌱 Continuously learning, developing new skills, and applying them across **SOC Analysis, GRC, and Cybersecurity Engineering**
+
 
 ## Technical Skills
 <div align="left">
@@ -60,9 +61,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MostafaSensei106/MostafaSensei106/output/pacman-contribution-graph.svg">
 </picture>
 
-## Support My Work
-<div align="left">
-  <a href="https://www.buymeacoffee.com/7yZ1LqKEgy">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy Me a Coffee &emoji=☕&slug=7yZ1LqKEgy&button_colour=f0e5d5&font_colour=000000&outline_colour=000000&coffee_colour=FFDD00" />
-  </a>
-</div>
